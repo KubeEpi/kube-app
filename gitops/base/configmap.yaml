@@ -9,4 +9,3 @@ data:
   DB_HOST: "sample-app-mysql"
   DB_PORT: "3306"
   DB_DATABASE: "app_database"
-  TEST_GITOPS: "v2"
