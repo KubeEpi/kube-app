@@ -4,7 +4,7 @@ metadata:
   name: sample-map-config
 data:
   APP_ENV: "production"
-  APP_DEBUG: "true"
+  APP_DEBUG: "false"
   DB_CONNECTION: "mysql"
   DB_HOST: "sample-app-mysql"
   DB_PORT: "3306"
